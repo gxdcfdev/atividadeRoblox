@@ -18,6 +18,4 @@ console.log(`VOCÊ DESEJA COMPRAR
     ===============
     `);
 
-    if saldo >= 50{
-        console.log ("comprou");
-    }
+    
