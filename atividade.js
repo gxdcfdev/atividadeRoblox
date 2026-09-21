@@ -1,4 +1,4 @@
-const item = String;
+const item = "espadaDeFogo";
 const valorI = 2;
-const raridade = String;
+const raridade = "Lendário";
 const quantidade = 10;
