@@ -1,3 +1,3 @@
-const espadaDeFogo = String;
-const valor = Number;
+const item = String;
+const valorI = 2;
 const raridade = String
