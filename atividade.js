@@ -5,7 +5,7 @@ const rl = readline.createInterface({
 });
 
 const item = "ESPADA DE FOGO";
-const valorI = 2;
+const valorI = 50;
 const raridade = "Lendário";
 const quantidade = 10;
 
