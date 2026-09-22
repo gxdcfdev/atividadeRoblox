@@ -39,4 +39,6 @@ console.log(`VOCÊ DESEJA COMPRAR
         } else {
             console.log("Compra cancelada!");
         }
+
+        rl.close();
     });
